@@ -1,0 +1,7 @@
+=== Students Grade Report ===
+Aysh | Grades: [90, 80, 90] | Avg: 86.67 | High: 90 | Low: 80
+Vaish | Grades: [80, 70, 90] | Avg: 80.00 | High: 90 | Low: 70
+
+Class Average: 83.33
+Class Highest Score: 90
+Class Lowest Score: 70
